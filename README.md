@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🔭Want to know more about me? 
+😄Please have access to [My Blog](https://monstertail.github.io/)
 <!--
 **Monstertail/Monstertail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
