@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭Want to know more about me? 
-😄Please visit [My Blog](https://monstertail.github.io/)
+😄Please visit [My Blog](https://monstertail.github.io/) and [My Academic Homepage](https://kivi-yao.github.io/).
 <!--
 **Monstertail/Monstertail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
